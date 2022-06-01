@@ -1,1 +1,1 @@
-{"version":3,"sources":["commom.sass"],"names":[],"mappings":"AAAA;EACI","file":"commom.css","sourcesContent":["body\r\n    font-size: 10px\r\n\r\n"]}
+{"version":3,"sources":["commom.sass","commom.css"],"names":[],"mappings":"AAAA,KACI,cAAA,CCCH","file":"commom.css","sourcesContent":["body\r\n    font-size: 10px\r\n\r\n","body {\n  font-size: 10px;\n}"]}

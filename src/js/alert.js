@@ -1,0 +1,1 @@
+document.querySelector(".title").textContent = "The Text from alert.js";

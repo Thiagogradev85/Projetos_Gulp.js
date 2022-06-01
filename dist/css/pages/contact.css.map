@@ -1,1 +1,1 @@
-{"version":3,"sources":["pages/contact.sass"],"names":[],"mappings":"AAAA;EACI","file":"contact.css","sourcesContent":[".contact\r\n    width: 450px\r\n    "]}
+{"version":3,"sources":["contact.css"],"names":[],"mappings":"AAAA,SACE,WAAa,CACd","file":"contact.css","sourcesContent":[".contact {\n  width: 450px;\n}"]}
